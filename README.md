@@ -14,5 +14,8 @@ Check Line wrapping or scroll all the way to the right to see the calculated val
 ```
 4) Update the cluster (Optional): <br/>
 ```
-TBD
+a) Select your cluster
+b) Click Configuration to display your cluster's current settings
+c) Edit the workder nodes
+d) Save and your cluster will be updated
 ```
