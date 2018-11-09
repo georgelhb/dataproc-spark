@@ -12,3 +12,7 @@ Jar file: file:///usr/lib/spark/examples/jars/spark-examples.jar
 ```
 Check Line wrapping or scroll all the way to the right to see the calculated value of Pi.
 ```
+4) Update the cluster (Optional): <br/>
+```
+TBD
+```
